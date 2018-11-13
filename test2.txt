@@ -1,0 +1,12 @@
+ Volume in drive C is Windows
+ Volume Serial Number is A8EF-CBEA
+
+ Directory of C:\Users\SIDDHARTH\Desktop\project
+
+13-11-2018  18:41    <DIR>          .
+13-11-2018  18:41    <DIR>          ..
+13-11-2018  18:28               395 index.html
+13-11-2018  18:27                39 test1.txt
+13-11-2018  18:41                 0 test2.txt
+               3 File(s)            434 bytes
+               2 Dir(s)  109,477,146,624 bytes free
